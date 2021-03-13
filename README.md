@@ -18,3 +18,9 @@ pros:
 cons:
 - Much less mature than alternatives
 - Limited references / resources outside of the official documentation
+
+
+# Here, we have 3 notebook for PyTorch which can be use as template coding
+-Basic
+-RNN
+-LSTM
